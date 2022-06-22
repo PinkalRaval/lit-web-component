@@ -1,0 +1,23 @@
+node_modules/
+platforms/
+.gradle/
+.settings/
+.migration_backup/
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+.idea
+.cloud
+.project
+tmp/
+typings/
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+hooks/after-prepare/firebase-crashlytics-buildscript.js
